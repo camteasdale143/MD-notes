@@ -1,0 +1,4 @@
+January 20th
+- can write your own ARP spoofing attack if you are so inclined
+- this is meant for man in the middle attacks where you employ the ARP protocol to tell the target you are the router and the router you are the target
+- dns spoofing, make peopel think they are going to a website when they are really going to another

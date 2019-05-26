@@ -1,0 +1,17 @@
+Unit 1
+
+POLYNOMIAL FUNCTIONS
+- d = an!
+    - where d is the common n'th degree differences, a is the leading coefficient, and n is the degree of the function
+- subbing in -x in order to check if a function is even or odd
+- AVROC and IROC in order to get rates of change
+- use direction of AVROC / IROC to determine the direction of the function, (i.e. fish going up or down)
+
+RATIONAL FUNCTIONS
+- speed bump = unfactorable bottom
+- oblique = divisible bottom
+- horizontal asymptote is highest bottom term coefficient dividing top coefficient of same degree 
+- Work solving equations and inequalities (especially expanding and solving)
+- inequalities solution format
+
+
