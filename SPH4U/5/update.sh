@@ -11,7 +11,7 @@ for filename in ./md/*.md; do
 	NAME+='.pdf'
 	COUNT=$(expr $COUNT + 1)
 	pandoc $filename -o $NAME
-	echo updated $NAME $COUNT of  $(ls -1 | wc -l)
+	echo updated $NAME $COUNT of  $(ls -1 md/ | wc -l)
 done
 
 echo done
