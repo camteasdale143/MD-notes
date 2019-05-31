@@ -1,7 +1,7 @@
 # Test Emulation
 
-define areas of incerease, decrease, concavity based on $f(x)$
-define areas of incerease, decrease, concavity based on $f\prime(x)$
+define areas of incerease, decrease, concavity based on a graph of $f(x)$
+define areas of incerease, decrease, concavity based on a graph of $f\prime(x)$
 
 given $f\prime(x)$ determine the shape of critical points (including slope vertical line / cusp ones)
 
