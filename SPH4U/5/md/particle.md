@@ -4,6 +4,34 @@ matter is made up of 17 fundamental particles
 
 these particles are categorized based on their properties
 
+in the standard model there are hadrons and leptons
+
+- Hadrons are made of quarks
+  - Mesons have 2 quarks
+  - Baryons have 3 quarks
+- Leptons interact with the weak nuclear force ,
+- gauge bosons - force carriers
+
+![standard model](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Standard_Model_of_Elementary_Particles.svg/300px-Standard_Model_of_Elementary_Particles.svg.png)
+
+particles separated by three key properties
+
+- spin - denotes intrinsic angular momentum of the particle
+- charge - electrical charge
+- strangeness - describes the decay of particles in strong nuclear and electromagnetic forces
+
+all particles have antiparticles
+
+antiparticles have all the same properties as their normal matter pair but have the opposite charge and strangeness
+
+read 13.4 and 13.5
+
+page 704 5, 7a 8
+
+How does the SNO lab detect neutrinos
+
+page 712 1 2
+
 ### Light Quiz
 
 - Diffraction
